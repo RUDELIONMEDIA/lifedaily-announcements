@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "announcements": [
+    {
+      "id": "welcome-001",
+      "type": "info",
+      "title": "Welcome to LifeDaily 🌿",
+      "message": "Thank you for being an early user. We're just getting started — great things coming!",
+      "active": true,
+      "created": "2026-10-05"
+    }
+  ]
+}
